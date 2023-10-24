@@ -25,3 +25,6 @@ To access these endpoints you need an API key. Users are limited to 100 requests
 Users also are limited to 1000 requests a month
 
 To add an API key, add to the header: `x-api-key` and then the key
+
+## DynamoDB 
+The primary key of the database is an uuid generated upon insert. The other fields are the name and description field 
