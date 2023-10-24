@@ -4,7 +4,7 @@ a DynamoDB. The lambdas are built using Python 3.9.
 
 ## Project Structure:
 ├── infrastructure &emsp;# Terraform to create the DynamoDB <br>
-├── lambdas &emsp;&emsp;&emsp;# Lambdas <br>
+├── lambdas &emsp;&emsp;&emsp; # Lambdas <br>
 ├── .gitignore <br>
 ├── requirements.txt <br>
 └── README.md
